@@ -58,7 +58,7 @@ def get_youtube_video_data(api_key, video_id):
 
 def main():
     # Replace 'YOUR_API_KEY' with your actual YouTube Data API key
-    api_key = 'AIzaSyCMEFGCfoj0oNtiZoaXXzI87hywf0loKkk'
+    api_key = 'ENTER YOUR API KEY HERE'
     
     # Take input from the user for the YouTube video link
     video_link = input("Enter the YouTube video link: ")
