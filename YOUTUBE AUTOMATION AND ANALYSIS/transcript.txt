@@ -1,0 +1,154 @@
+0.033 - 3.2359999999999998: "...When they see the features and performance
+and capabilities of a product
+3.236 - 6.106: like the iPod Pro, designed
+for a modern digital lifestyle.
+6.106 - 7.741: An entirely new iPad Pro."
+7.741 - 12.445: This is the worst designed
+iPad Apple has ever made.
+12.479 - 15.280999999999999: And the crazy part is that no
+one knows why.
+15.281 - 16.95: It's been eight years since it
+16.95 - 20.686999999999998: launched, but people to this day
+report problem after problem.
+20.887 - 22.655: Even on Apple's own forum,
+22.655 - 26.493000000000002: people are like, “Hey, I just changed
+my battery and the iPad died.”
+26.493 - 28.862: “I got a new update and the iPad bricked.”
+28.862 - 32.065: So what has caused the iPad Pro 9.7 to be
+32.065 - 35.835: the most problematic
+iPad in the history of Apple?
+35.935 - 37.47: Let's find out.
+37.47 - 40.106: Let's pop
+this bad boy open and let's investigate.
+40.106 - 43.510000000000005: I've been fixing faults for four years
+now, and I'm at the point in my life
+43.51 - 47.013: where almost every week
+I get an iPad Pro 9.7 on my desk.
+47.047 - 49.181999999999995: Now, usually I wouldn't have a problem
+with that.
+49.182 - 50.617000000000004: It's more business for me,
+50.617 - 54.521: but it's to the point where it's
+not just customers, but also technicians.
+54.521 - 57.19: Everyone
+is having a problem with this iPad.
+57.19 - 58.824999999999996: All right, Let's take the board out.
+58.825 - 59.793000000000006: I don't see anything.
+59.793 - 62.262: Do you.... (makes random noise) guys see something?
+62.262 - 65.131: Let's compare it to the other
+first generation pro products.
+65.131 - 67.033: I'm going to explain what that means.
+67.033 - 72.839: So please bear with me: between 2015
+to 2017, Apple released three pro iPads,
+72.839 - 77.877: and every time they experimented with the
+size, there was a 12.9 frickin massive.
+77.977 - 80.013: There was a 10.5 pretty medium.
+80.013 - 81.51400000000001: And then there was this piece of trash.
+81.514 - 84.75099999999999: I mean, the the pro 9.7,
+this was going to be small.
+84.751 - 86.152: It was supposed to be super portable.
+86.152 - 88.054: Here they are in comparison to each other.
+88.054 - 91.191: Can you see the difference? In the 10.5
+and the 12.9,
+91.324 - 95.428: the board is in the center of the frame - 
+With the 9.7, Apple headquarters
+95.428 - 98.99799999999999: just shoved the board into the corner
+and they got a big battery on the left.
+98.998 - 101.334: Now I can see why [they did this] -  it's a small body.
+101.334 - 102.302: It's about six inches.
+102.302 - 104.337: And why would you split
+the battery in half?
+104.337 - 106.673: But because the board is shoved
+into the corner,
+106.673 - 109.976: there's a lot of repercussions
+that comes with: Like this is the thinness
+109.976 - 112.979: of the frame
+compared to a penny “like about two pennies thick”
+112.979 - 115.215: And the board is of course,
+it's a pretty delicate thing.
+115.215 - 118.218: It's clearly in a place
+where it's going to see a lot of bending.
+118.351 - 120.153: Oh, bending. You don't know...? Look at this!
+120.153 - 123.05600000000001: This is the bend test
+I did with the pro 9.7.
+123.056 - 124.89099999999999: Keep in mind, I’m not a jacked guy (just had to throw that out there)
+124.891 - 126.726: I'm not like Zach from JerryRigEverything-
+126.726 - 130.763: But if I was able to bend the iPad,
+it must be super delicate.
+130.763 - 134.534: And right where the iPad is bending
+is where the motherboard is.
+134.534 - 137.036: But let's go a bit deeper into the board.
+137.036 - 141.207: Are there any failure points or important
+parts of the board which are right here?
+141.207 - 144.144: Well, there's  this chip.
+It looks kind of important.
+144.144 - 146.14600000000002: Well,
+how do you find out what that chip is?
+146.146 - 147.647: I'm glad you asked!  Ladies and gentlemen,
+147.647 - 150.683: I want to present to you
+the software called Phone Board.
+150.717 - 151.95100000000002: This is a board view software.
+151.951 - 155.188: It lets us see what
+the actual lines on the board go to.
+155.188 - 156.22199999999998: Let's click uhhhhhhhh
+156.222 - 158.491: Let’s look around. And THAT’S THE CHIP!
+158.491 - 159.425: That's the dude
+159.425 - 161.86100000000002: that we saw is at the worst point it could be at.
+161.861 - 166.03199999999998: And this pattern which you guys see, where
+it's like claws coming in from each side
+166.032 - 169.30200000000002: that means that that chip
+is the power management chip.
+169.302 - 171.07: People had a lot of problems
+with the battery,
+171.07 - 173.90699999999998: and this is the power management chip.
+But what about the other pro iPads?
+173.907 - 176.876: Now, the other pro iPads
+also were pretty prone to bending,
+176.876 - 180.14600000000002: but their power management chip
+was not in the center.
+180.146 - 181.648: They had it off to the side. (villager noises)
+181.648 - 183.983: So Apple
+deciding to place the power management
+183.983 - 186.519: chip in the center
+CLEARLY was not the best idea.
+186.519 - 189.055: On top of that,
+let's look at the technician argument.
+189.055 - 192.425: These are people who are trained and
+they fixed probably thousands of iPads.
+192.425 - 195.728: Why is it that this pro 9.7 gives them
+such problems?
+195.728 - 198.731: Well, the flex cables
+that you use to connect to the iPad,
+198.898 - 201.301: they have to be shoved into the corner.
+They're THICK.
+201.301 - 203.036: Keep in mind, this is a pro iPad.
+203.036 - 206.072: I hate to be tooting Apple's horn,
+but the actual resolution of the screen
+206.072 - 208.308: is quite high
+and the cables have to be thick.
+208.308 - 210.843: There's a lot of power
+going from the board to the big screen.
+210.843 - 213.346: So much pressure
+being put on an aftermarket
+213.346 - 215.248: flex cable isn't the best idea.
+215.248 - 216.516: And this is why a lot of the times
+216.516 - 219.68599999999998: Pro 9.7s is just cut off
+because one of the cables
+219.686 - 221.287: and what are the lines on the cable,
+221.287 - 224.023: they get bent a little bit
+too far and BAAAAM, that's it.
+224.023 - 226.593: And because you just watch
+the whole video, first of all, thank you.
+226.593 - 229.16199999999998: And before you click off,
+I got a gift for you - the software
+229.162 - 232.332: I was using in the video,
+phone board, is completely free.
+232.565 - 234.601: They also have a lot of other phones
+and tablets
+234.601 - 236.703: which you guys might be interested in...
+236.703 - 239.372: I have a link to the description.
+I don't like to pay for software.
+239.372 - 240.37300000000002: I'm sure you don't either.
+240.373 - 242.34199999999998: Hopefully you'll learn something.
+Thank you so much
+242.342 - 246.246: for your time and subscribe
+so WE CAN BUILD THE FUTURE, TOGETHER..
