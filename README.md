@@ -18,6 +18,9 @@ Presents sentiment analysis results using both bar and pie charts for a clear re
 4. Automation:
 Automates the execution of two separate scripts (combined.py and text-analysis.py) using the subprocess module, streamlining the analysis workflow.
 Enables the user to perform YouTube video data extraction, text analysis, and automation with a single script execution.
+
+
+
 How to Use:
 API Key Setup:
 
